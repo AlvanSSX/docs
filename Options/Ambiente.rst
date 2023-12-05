@@ -1,4 +1,4 @@
-5. Ambientes de projetos
+5. Ambientes de Projetos
 +++++++++++++++++++++++++
 
 No início de todo projeto, deve ser elaborado um desenho com a arquitetura proposta para a solução, e este deve ser submetido à aprovação do time de Arquitetura. Nesse desenho deve ser especificado o fluxo do dado, da origem ao destino, indicando a ferramenta/recurso usado em cada etapa. Também deve conter os tipos de origens, como arquivos manuais, bases Oracle, sites externos, APIs etc. (no caso de bases internas da Ipiranga, deve-se listar os nomes das tabelas que serão usadas). Cada etapa deve ser numerada e o desenho deve conter uma box com legenda, onde serão descritas as etapas. 
